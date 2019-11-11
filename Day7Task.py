@@ -1,4 +1,3 @@
-'''
 # FizzBuzz
 # bikin 1 function dengan parameter => fizzbuzz(150)
 # Jika bilangan kelipatan 3 print Fizz
@@ -174,4 +173,3 @@ def sanmor(x):
         print(''.join(y))
 
 sanmor('–– •– –•– •– –• / –•– • – ––– •––• •–• •– –•–')
-'''
